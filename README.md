@@ -15,8 +15,9 @@ each time they reach a screen edge.
 or 
 * python -m pip install pygame
 
-### Images
+### Images & Sounds
 You can change the image. Download icons in 32px or 64px format as needed.
+Same for audio, with files in wav format.
 
 # Features
 
