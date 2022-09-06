@@ -117,7 +117,7 @@ while running:
     for i in range(num_of_enemies):
         
         #GameOver
-        if enemyY[i] > 200: #Game Over si les ennemis atteignent le vaisseau
+        if enemyY[i] > 440: #Game Over si les ennemis atteignent le vaisseau
             for j in range(num_of_enemies):
                 enemyY[j] = 2000
             game_over_text(200,250)

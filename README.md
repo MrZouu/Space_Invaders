@@ -21,15 +21,21 @@ You can change the image. Download icons in 32px or 64px format as needed.
 # Features
 
 ## Main Menu
+Coming soon
 * Start the game///
 * Show rules///
 * Leave the game///
 
 ## Game
-
+* You have your spaceship at the bottom of the screen
+* Several aliens are coming towards you from right to left on the screen.
+* Your score appears in the upper left corner of the screen.
+* There is background music, a sound when shooting and a sound if an alien is hit.
 
 ##  User guide
-
+* Move the Starship from right to left with the directional arrows.
+* Shoot aliens with the space key.
+* You lose if aliens reach the spaceship
 
 #  Credits
 * [**MrZouu**](https://github.com/MrZouu) : Creator of the project.
