@@ -11,9 +11,13 @@ each time they reach a screen edge.
 
 # Install
 ### Install pygame
-* pip i pygame 
+```shell
+pip i pygame
+```
 or 
-* python -m pip install pygame
+```shell
+python -m pip install pygame
+```
 
 ### Images & Sounds
 You can change the image. Download icons in 32px or 64px format as needed.
@@ -23,9 +27,9 @@ Same for audio, with files in wav format.
 
 ## Main Menu
 Coming soon
-* Start the game///
-* Show rules///
-* Leave the game///
+* Start the game
+* Show rules
+* Leave the game
 
 ## Game
 * You have your spaceship at the bottom of the screen
@@ -39,4 +43,4 @@ Coming soon
 * You lose if aliens reach the spaceship
 
 #  Credits
-* [**MrZouu**](https://github.com/MrZouu) : Creator of the project.
+* [**Lorenzo**](https://github.com/MrZouu) : Creator of the project.
